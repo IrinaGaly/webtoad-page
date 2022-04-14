@@ -1,4 +1,4 @@
-# webtoad
+# Webtoad
 
 ## Project setup
 ```
