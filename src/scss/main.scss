@@ -1,0 +1,15 @@
+@import
+  "settings/settings.fonts.scss",
+  "settings/settings.general.scss",
+  "settings/settings.pixtorem.scss",
+  "settings/settings.spacing.scss";
+
+@import
+  "components/components.section-about.scss",
+  "components/components.card.scss";
+
+@import
+  "objects/objects.wrappers.scss";
+
+@import
+  "generic/generic.normalize.scss";
