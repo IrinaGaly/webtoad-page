@@ -1,6 +1,6 @@
 <template>
   <div id="app" class="o-main-wrapper">
-    <SectionAbout msg="Welcome to Your Vue.js App"/>
+    <SectionAbout />
   </div>
 </template>
 
