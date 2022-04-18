@@ -12,14 +12,9 @@
     grid-template-columns: repeat(2, 1fr);
   }
 
-  // @media(max-width: $breakpoint-s) {
-  //   grid-template-columns: repeat(2, 1fr);
-  // }
-
   @media(max-width: $breakpoint-xs) {
     grid-template-columns: 1fr;
     gap: toRem(18);
-    padding: toRem(35) toRem(22);
   }
 }
 

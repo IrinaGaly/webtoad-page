@@ -15,7 +15,7 @@ $corner-radius-s: 12px;
   }
 
   @media(max-width: $breakpoint-xs) {
-    grid-column: span 2;
+    grid-column: span 1;
   }
 }
 
@@ -55,6 +55,7 @@ $corner-radius-s: 12px;
 
   @media(max-width: $breakpoint-s) {
     margin: 0;
+    font-size: toRem(18);
   }
 }
 
