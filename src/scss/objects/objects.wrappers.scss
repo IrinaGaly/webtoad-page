@@ -3,14 +3,14 @@ $light-color-c: #FBFBFB;
 .o-main-wrapper {
   background: $light-color-c;
 
-  padding: toRem(86) toRem(135);
+  padding: $space-8 $space-10;
 
   @media(max-width: $breakpoint-xl) {
-    padding: toRem(35) toRem(22);
+    padding: $space-3 $space-2;
   }
 
   @media(min-width: $breakpoint-xl) {
-    padding: toRem(35) toRem(22);
+    padding: $space-3 $space-2;
   }
 }
 

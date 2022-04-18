@@ -14,7 +14,7 @@
 
   @media(max-width: $breakpoint-xs) {
     grid-template-columns: 1fr;
-    gap: toRem(18);
+    gap: $space-1;
   }
 }
 
